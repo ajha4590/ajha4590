@@ -7,8 +7,6 @@ Hi there! 👋 I'm Amit, a language specialist transitioning into the world of t
 - 🧠 Transitioning from non-tech to a tech role in an MNC
 - 🗣️ Speak Chinese 🇨🇳!
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Building beginner-friendly Python projects focused on automation and real-world tasks.
 - 🌱 I’m currently learning ...Python, data structures & algorithms, UX design fundamentals, and AI automation concepts.
 - 👯 I’m looking to collaborate on ... Simple Python or UX-based projects, especially those helping beginners or solving everyday problems.
